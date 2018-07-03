@@ -1,0 +1,9 @@
+H:\git\autoFacNetCore\NetCore\bin\Debug\netcoreapp2.0\NetCore.deps.json
+H:\git\autoFacNetCore\NetCore\bin\Debug\netcoreapp2.0\NetCore.dll
+H:\git\autoFacNetCore\NetCore\bin\Debug\netcoreapp2.0\NetCore.pdb
+H:\git\autoFacNetCore\NetCore\obj\Debug\netcoreapp2.0\NetCore.csprojAssemblyReference.cache
+H:\git\autoFacNetCore\NetCore\obj\Debug\netcoreapp2.0\NetCore.csproj.CoreCompileInputs.cache
+H:\git\autoFacNetCore\NetCore\obj\Debug\netcoreapp2.0\NetCore.AssemblyInfoInputs.cache
+H:\git\autoFacNetCore\NetCore\obj\Debug\netcoreapp2.0\NetCore.AssemblyInfo.cs
+H:\git\autoFacNetCore\NetCore\obj\Debug\netcoreapp2.0\NetCore.dll
+H:\git\autoFacNetCore\NetCore\obj\Debug\netcoreapp2.0\NetCore.pdb

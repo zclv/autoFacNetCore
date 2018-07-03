@@ -1,0 +1,12 @@
+H:\git\autoFacNetCore\Service\bin\Debug\netcoreapp2.0\Service.deps.json
+H:\git\autoFacNetCore\Service\bin\Debug\netcoreapp2.0\Service.dll
+H:\git\autoFacNetCore\Service\bin\Debug\netcoreapp2.0\Service.pdb
+H:\git\autoFacNetCore\Service\bin\Debug\netcoreapp2.0\NetCore.dll
+H:\git\autoFacNetCore\Service\bin\Debug\netcoreapp2.0\NetCore.pdb
+H:\git\autoFacNetCore\Service\obj\Debug\netcoreapp2.0\Service.csprojAssemblyReference.cache
+H:\git\autoFacNetCore\Service\obj\Debug\netcoreapp2.0\Service.csproj.CoreCompileInputs.cache
+H:\git\autoFacNetCore\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfoInputs.cache
+H:\git\autoFacNetCore\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfo.cs
+H:\git\autoFacNetCore\Service\obj\Debug\netcoreapp2.0\Service.csproj.CopyComplete
+H:\git\autoFacNetCore\Service\obj\Debug\netcoreapp2.0\Service.dll
+H:\git\autoFacNetCore\Service\obj\Debug\netcoreapp2.0\Service.pdb

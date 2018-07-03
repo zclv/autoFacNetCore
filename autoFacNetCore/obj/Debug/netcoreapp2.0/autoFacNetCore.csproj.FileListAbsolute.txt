@@ -1,0 +1,16 @@
+H:\git\autoFacNetCore\autoFacNetCore\bin\Debug\netcoreapp2.0\autoFacNetCore.deps.json
+H:\git\autoFacNetCore\autoFacNetCore\bin\Debug\netcoreapp2.0\autoFacNetCore.runtimeconfig.json
+H:\git\autoFacNetCore\autoFacNetCore\bin\Debug\netcoreapp2.0\autoFacNetCore.runtimeconfig.dev.json
+H:\git\autoFacNetCore\autoFacNetCore\bin\Debug\netcoreapp2.0\autoFacNetCore.dll
+H:\git\autoFacNetCore\autoFacNetCore\obj\Debug\netcoreapp2.0\autoFacNetCore.csprojAssemblyReference.cache
+H:\git\autoFacNetCore\autoFacNetCore\obj\Debug\netcoreapp2.0\autoFacNetCore.csproj.CoreCompileInputs.cache
+H:\git\autoFacNetCore\autoFacNetCore\obj\Debug\netcoreapp2.0\autoFacNetCore.AssemblyInfoInputs.cache
+H:\git\autoFacNetCore\autoFacNetCore\obj\Debug\netcoreapp2.0\autoFacNetCore.AssemblyInfo.cs
+H:\git\autoFacNetCore\autoFacNetCore\bin\Debug\netcoreapp2.0\autoFacNetCore.pdb
+H:\git\autoFacNetCore\autoFacNetCore\obj\Debug\netcoreapp2.0\autoFacNetCore.dll
+H:\git\autoFacNetCore\autoFacNetCore\obj\Debug\netcoreapp2.0\autoFacNetCore.pdb
+H:\git\autoFacNetCore\autoFacNetCore\bin\Debug\netcoreapp2.0\NetCore.dll
+H:\git\autoFacNetCore\autoFacNetCore\bin\Debug\netcoreapp2.0\NetCore.pdb
+H:\git\autoFacNetCore\autoFacNetCore\obj\Debug\netcoreapp2.0\autoFacNetCore.csproj.CopyComplete
+H:\git\autoFacNetCore\autoFacNetCore\bin\Debug\netcoreapp2.0\Service.dll
+H:\git\autoFacNetCore\autoFacNetCore\bin\Debug\netcoreapp2.0\Service.pdb
