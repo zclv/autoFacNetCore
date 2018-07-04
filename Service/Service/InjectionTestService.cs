@@ -10,6 +10,7 @@ namespace Service.Service
         public string Test()
         {
             return "autoFac NetCore 测试成功！";
+
         }
     }
 }

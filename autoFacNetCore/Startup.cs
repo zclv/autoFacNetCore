@@ -5,6 +5,7 @@ using System.Reflection;
 using System.Threading.Tasks;
 using Autofac;
 using Autofac.Extensions.DependencyInjection;
+using Library;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -29,6 +30,7 @@ namespace autoFacNetCore
         public IServiceProvider ConfigureServices(IServiceCollection services)
         { 
             services.AddMvc();
+            services.Add(new ServiceDescriptor(typeof(UserContext), new UserContext(Configuration.GetConnectionString("DefaultConnection"))));
             var builder = new ContainerBuilder();//实例化 AutoFac  容器   
               
             var assemblys = Assembly.Load("Service");//Service是继承接口的实现方法类库名称

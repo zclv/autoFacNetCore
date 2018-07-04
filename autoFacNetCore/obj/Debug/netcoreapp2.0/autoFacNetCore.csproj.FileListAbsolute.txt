@@ -14,3 +14,5 @@ H:\git\autoFacNetCore\autoFacNetCore\bin\Debug\netcoreapp2.0\NetCore.pdb
 H:\git\autoFacNetCore\autoFacNetCore\obj\Debug\netcoreapp2.0\autoFacNetCore.csproj.CopyComplete
 H:\git\autoFacNetCore\autoFacNetCore\bin\Debug\netcoreapp2.0\Service.dll
 H:\git\autoFacNetCore\autoFacNetCore\bin\Debug\netcoreapp2.0\Service.pdb
+H:\git\autoFacNetCore\autoFacNetCore\bin\Debug\netcoreapp2.0\Library.dll
+H:\git\autoFacNetCore\autoFacNetCore\bin\Debug\netcoreapp2.0\Library.pdb
