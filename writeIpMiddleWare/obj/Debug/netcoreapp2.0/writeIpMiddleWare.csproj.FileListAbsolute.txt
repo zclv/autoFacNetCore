@@ -1,0 +1,11 @@
+H:\git\autoFacNetCore\writeIpMiddleWare\bin\Debug\netcoreapp2.0\writeIpMiddleWare.deps.json
+H:\git\autoFacNetCore\writeIpMiddleWare\bin\Debug\netcoreapp2.0\writeIpMiddleWare.runtimeconfig.json
+H:\git\autoFacNetCore\writeIpMiddleWare\bin\Debug\netcoreapp2.0\writeIpMiddleWare.runtimeconfig.dev.json
+H:\git\autoFacNetCore\writeIpMiddleWare\bin\Debug\netcoreapp2.0\writeIpMiddleWare.dll
+H:\git\autoFacNetCore\writeIpMiddleWare\bin\Debug\netcoreapp2.0\writeIpMiddleWare.pdb
+H:\git\autoFacNetCore\writeIpMiddleWare\obj\Debug\netcoreapp2.0\writeIpMiddleWare.csprojAssemblyReference.cache
+H:\git\autoFacNetCore\writeIpMiddleWare\obj\Debug\netcoreapp2.0\writeIpMiddleWare.csproj.CoreCompileInputs.cache
+H:\git\autoFacNetCore\writeIpMiddleWare\obj\Debug\netcoreapp2.0\writeIpMiddleWare.AssemblyInfoInputs.cache
+H:\git\autoFacNetCore\writeIpMiddleWare\obj\Debug\netcoreapp2.0\writeIpMiddleWare.AssemblyInfo.cs
+H:\git\autoFacNetCore\writeIpMiddleWare\obj\Debug\netcoreapp2.0\writeIpMiddleWare.dll
+H:\git\autoFacNetCore\writeIpMiddleWare\obj\Debug\netcoreapp2.0\writeIpMiddleWare.pdb

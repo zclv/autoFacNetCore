@@ -8,8 +8,10 @@ using Autofac.Extensions.DependencyInjection;
 using Library;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
 using NetCore.Dependency;
 using NetCore.IService;
 using Service.Service;
@@ -45,7 +47,7 @@ namespace autoFacNetCore
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env,ILoggerFactory loggerFactory)
         {
             if (env.IsDevelopment())
             {
@@ -56,7 +58,16 @@ namespace autoFacNetCore
             {
                 app.UseExceptionHandler("/Home/Error");
             }
-
+            //loggerFactory.AddConsole(minLevel:LogLevel.Information);
+            //var logger = loggerFactory.CreateLogger("Middleware");
+            //app.Use(async(context,next)=>{
+            //    logger.LogInformation("Handing request");
+            //    await next.Invoke();
+            //    logger.LogInformation("Finished handing request");
+            //});
+            //app.Run(async context=> {
+            //    await context.Response.WriteAsync("Hello from MiddleWare");
+            //});
             app.UseStaticFiles();
 
             app.UseMvc(routes =>

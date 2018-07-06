@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autoFacNetCore", "autoFacNetCore\autoFacNetCore.csproj", "{68474454-1A2E-4FCA-8281-99A384A6C802}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "autoFacNetCore", "autoFacNetCore\autoFacNetCore.csproj", "{68474454-1A2E-4FCA-8281-99A384A6C802}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{10E43436-D3E2-4177-BE67-A808DB637968}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library", "Library\Library.csproj", "{10E43436-D3E2-4177-BE67-A808DB637968}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{F90306E8-8FE6-48F2-A9AF-F08F7152A2F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "Service\Service.csproj", "{F90306E8-8FE6-48F2-A9AF-F08F7152A2F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore", "NetCore\NetCore.csproj", "{449C6C32-DCBB-42A9-B42F-DE2AEAAD98A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCore", "NetCore\NetCore.csproj", "{449C6C32-DCBB-42A9-B42F-DE2AEAAD98A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "writeIpMiddleWare", "writeIpMiddleWare\writeIpMiddleWare.csproj", "{0ED3CD15-E16B-4E01-86D7-F8F980D66800}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{449C6C32-DCBB-42A9-B42F-DE2AEAAD98A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{449C6C32-DCBB-42A9-B42F-DE2AEAAD98A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{449C6C32-DCBB-42A9-B42F-DE2AEAAD98A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ED3CD15-E16B-4E01-86D7-F8F980D66800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED3CD15-E16B-4E01-86D7-F8F980D66800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED3CD15-E16B-4E01-86D7-F8F980D66800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED3CD15-E16B-4E01-86D7-F8F980D66800}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
