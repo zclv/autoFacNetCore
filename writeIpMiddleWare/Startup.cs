@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -21,6 +22,24 @@ namespace writeIpMiddleWare
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, ILoggerFactory loggerFactory)
         {
+            Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
+            app.Use(next => new RequestDelegate(async context => {
+                await context.Response.WriteAsync("这是我的第一个请求开始信息。");
+                await next.Invoke(context);
+                await context.Response.WriteAsync("这是我的第一个请求信息结束。");
+
+            }));
+            app.Use(next => new RequestDelegate(async context => {
+                await context.Response.WriteAsync("这是我的第二个请求开始信息。");
+                await next.Invoke(context);
+                await context.Response.WriteAsync("这是我的第二个请求信息结束。");
+
+            }));
+            app.Use(next => new RequestDelegate(async context => {
+                await context.Response.WriteAsync("这是我的第三个请求开始信息。"); 
+                await context.Response.WriteAsync("这是我的第三个请求信息结束。");
+
+            }));
             loggerFactory.AddConsole(minLevel:LogLevel.Information);
             app.UseRequestIP();//使用中间件
             app.UseStaticFiles();//使用静态文件中间件

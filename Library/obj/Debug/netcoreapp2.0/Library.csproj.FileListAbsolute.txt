@@ -1,12 +1,12 @@
 H:\git\autoFacNetCore\Library\bin\Debug\netcoreapp2.0\Library.deps.json
 H:\git\autoFacNetCore\Library\bin\Debug\netcoreapp2.0\Library.dll
+H:\git\autoFacNetCore\Library\bin\Debug\netcoreapp2.0\Library.pdb
 H:\git\autoFacNetCore\Library\bin\Debug\netcoreapp2.0\NetCore.dll
 H:\git\autoFacNetCore\Library\bin\Debug\netcoreapp2.0\NetCore.pdb
+H:\git\autoFacNetCore\Library\obj\Debug\netcoreapp2.0\Library.csprojAssemblyReference.cache
 H:\git\autoFacNetCore\Library\obj\Debug\netcoreapp2.0\Library.csproj.CoreCompileInputs.cache
 H:\git\autoFacNetCore\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfoInputs.cache
 H:\git\autoFacNetCore\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfo.cs
 H:\git\autoFacNetCore\Library\obj\Debug\netcoreapp2.0\Library.csproj.CopyComplete
-H:\git\autoFacNetCore\Library\bin\Debug\netcoreapp2.0\Library.pdb
-H:\git\autoFacNetCore\Library\obj\Debug\netcoreapp2.0\Library.csprojAssemblyReference.cache
 H:\git\autoFacNetCore\Library\obj\Debug\netcoreapp2.0\Library.dll
 H:\git\autoFacNetCore\Library\obj\Debug\netcoreapp2.0\Library.pdb
